@@ -16,12 +16,13 @@
 /// NPM. Package.json. Установка модулей. Определение команд
 
 
-const express = require('express');
+// const express = require('express');
 
-const app = express();
+// const app = express();
 
-app.get('/', function (request, response) {
-    response.end('Hello from Express')
-})
+// app.get('/', function (request, response) {
+//     response.end('Hello from Express')
+// })
 
-app.listen(3000)
+// app.listen(3000)
+
